@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e9432e844a36616ce8c810f0bf56f912a67ccec7">
+        <dex dex="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7751a86806bc7903a1da53550c7d07755be302ea\classes.dex" />
+    </item>
+    <item
+        jar="D:\Programming\Android\Programs\Augmentify\app\libs\JKalman.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="63f8d97a30cc344e2cac3dc66a88d5328aaf1053">
+        <dex dex="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\transforms\dex\debug\folders\1000\2\JKalman_7121922455bc1ec71360bb7da4636e126a6c95e0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_4edf3e8ac10cec0ccdbd48c9ab486f586ca94121\classes.dex" />
+    </item>
+    <item
+        jar="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="82360f27c1358e5fcf44329630bdf9a42a1aa3b9">
+        <dex dex="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_43527cbb43fc387d5ff3ff0afe4d42b008c7f7eb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_f081db4af4eb10e67bea7258b5a9d54d8323f251\classes.dex" />
+    </item>
+    <item
+        jar="D:\adt\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Programming\Android\Programs\Augmentify\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_e8756832248e3c2971a86b06476f67dc861bf213\classes.dex" />
+    </item>
+
+</items>
